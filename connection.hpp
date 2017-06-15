@@ -22,10 +22,11 @@ public:
   client(char *host, int port);
   ~client();
   void exit();
-  void write(char *buf, unsigned size);
-  bool read(char *buf, unsigned size);
+  void write(unsigned char *buf, unsigned size);
+  bool read(unsigned char *buf, unsigned size);
   void auth (uint32_t idx);
-  void preamble();
+  void ret();
+  void header(unsigned char in);
 };
 
 

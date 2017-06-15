@@ -1,0 +1,438 @@
+Indata1 = 0xfeedface
+Indata2 = 0xfeedface
+
+err read
+err read
+Data for: 0x02
+cefa6dff
+err read
+err read
+Data for: 0x05
+cefaedfe
+Data for: 0x06
+cefaedfe
+err read
+Data for: 0x08
+6e3de141
+Data for: 0x09
+00000000
+Data for: 0x0a
+00000000
+err read
+Data for: 0x0c
+32051201
+Data for: 0x0d
+cefaedfe
+Data for: 0x0e
+00000000
+Data for: 0x0f
+faedfe0d
+Data for: 0x10
+00000000
+Data for: 0x11
+00000000
+err read
+Data for: 0x13
+feedface
+Data for: 0x14
+00000000
+err read
+Data for: 0x16
+cefa6dff
+err read
+err read
+Data for: 0x19
+cefaedfe
+Data for: 0x1a
+cefaedfe
+Data for: 0x1b
+6e3de141
+Data for: 0x1c
+00000000
+Data for: 0x1d
+00000000
+err read
+Data for: 0x1f
+32051201
+Data for: 0x20
+cefaedfe
+Data for: 0x21
+00000000
+Data for: 0x22
+faedfe0d
+Data for: 0x23
+00000000
+Data for: 0x24
+00000000
+err read
+Data for: 0x26
+feedface
+Data for: 0x27
+00000000
+err read
+err read
+Data for: 0x2a
+cefa6dff
+err read
+err read
+Data for: 0x2d
+cefaedfe
+Data for: 0x2e
+cefaedfe
+Data for: 0x2f
+6e3de141
+err read
+Data for: 0x31
+00000000
+Data for: 0x32
+00000000
+Data for: 0x33
+32051201
+Data for: 0x34
+cefaedfe
+Data for: 0x35
+00000000
+Data for: 0x36
+faedfe0d
+Data for: 0x37
+00000000
+Data for: 0x38
+00000000
+err read
+Data for: 0x3a
+feedface
+Data for: 0x3b
+00000000
+err read
+err read
+Data for: 0x3e
+cefa6dff
+err read
+err read
+Data for: 0x41
+cefaedfe
+Data for: 0x42
+cefaedfe
+err read
+Data for: 0x44
+6e3de141
+Data for: 0x45
+00000000
+Data for: 0x46
+00000000
+err read
+Data for: 0x48
+32051201
+Data for: 0x49
+cefaedfe
+Data for: 0x4a
+00000000
+Data for: 0x4b
+faedfe0d
+Data for: 0x4c
+00000000
+Data for: 0x4d
+00000000
+err read
+Data for: 0x4f
+feedface
+Data for: 0x50
+00000000
+err read
+Data for: 0x52
+cefa6dff
+err read
+err read
+Data for: 0x55
+cefaedfe
+Data for: 0x56
+cefaedfe
+Data for: 0x57
+6e3de141
+Data for: 0x58
+00000000
+Data for: 0x59
+00000000
+err read
+Data for: 0x5b
+32051201
+Data for: 0x5c
+cefaedfe
+Data for: 0x5d
+00000000
+Data for: 0x5e
+faedfe0d
+Data for: 0x5f
+00000000
+Data for: 0x60
+00000000
+err read
+Data for: 0x62
+feedface
+Data for: 0x63
+00000000
+err read
+err read
+Data for: 0x66
+cefa6dff
+err read
+err read
+Data for: 0x69
+cefaedfe
+Data for: 0x6a
+cefaedfe
+Data for: 0x6b
+6e3de141
+Data for: 0x6c
+00000000
+Data for: 0x6d
+00000000
+err read
+Data for: 0x6f
+32051201
+err read
+Data for: 0x71
+cefaedfe
+Data for: 0x72
+00000000
+Data for: 0x73
+faedfe0d
+Data for: 0x74
+00000000
+Data for: 0x75
+00000000
+err read
+Data for: 0x77
+feedface
+Data for: 0x78
+00000000
+err read
+Data for: 0x7a
+cefa6dff
+err read
+err read
+Data for: 0x7d
+cefaedfe
+Data for: 0x7e
+cefaedfe
+Data for: 0x7f
+6e3de141
+Data for: 0x80
+00000000
+Data for: 0x81
+00000000
+err read
+Data for: 0x83
+32051201
+Data for: 0x84
+cefaedfe
+Data for: 0x85
+00000000
+Data for: 0x86
+faedfe0d
+err read
+Data for: 0x88
+00000000
+Data for: 0x89
+00000000
+Data for: 0x8a
+feedface
+Data for: 0x8b
+00000000
+err read
+err read
+Data for: 0x8e
+cefa6dff
+err read
+err read
+Data for: 0x91
+cefaedfe
+Data for: 0x92
+cefaedfe
+Data for: 0x93
+6e3de141
+Data for: 0x94
+00000000
+err read
+Data for: 0x96
+00000000
+err read
+Data for: 0x98
+32051201
+Data for: 0x99
+cefaedfe
+Data for: 0x9a
+00000000
+Data for: 0x9b
+faedfe0d
+Data for: 0x9c
+00000000
+Data for: 0x9d
+00000000
+err read
+Data for: 0x9f
+feedface
+Data for: 0xa0
+00000000
+err read
+Data for: 0xa2
+cefa6dff
+err read
+err read
+Data for: 0xa5
+cefaedfe
+Data for: 0xa6
+cefaedfe
+Data for: 0xa7
+6e3de141
+Data for: 0xa8
+00000000
+Data for: 0xa9
+00000000
+err read
+Data for: 0xab
+32051201
+Data for: 0xac
+cefaedfe
+Data for: 0xad
+00000000
+Data for: 0xae
+faedfe0d
+Data for: 0xaf
+00000000
+Data for: 0xb0
+00000000
+err read
+Data for: 0xb2
+feedface
+Data for: 0xb3
+00000000
+err read
+err read
+Data for: 0xb6
+cefa6dff
+err read
+err read
+Data for: 0xb9
+cefaedfe
+Data for: 0xba
+cefaedfe
+Data for: 0xbb
+6e3de141
+Data for: 0xbc
+00000000
+Data for: 0xbd
+00000000
+err read
+Data for: 0xbf
+32051201
+Data for: 0xc0
+cefaedfe
+Data for: 0xc1
+00000000
+Data for: 0xc2
+faedfe0d
+err read
+Data for: 0xc4
+00000000
+Data for: 0xc5
+00000000
+err read
+Data for: 0xc7
+feedface
+Data for: 0xc8
+00000000
+err read
+Data for: 0xca
+cefa6dff
+err read
+err read
+Data for: 0xcd
+cefaedfe
+Data for: 0xce
+cefaedfe
+Data for: 0xcf
+6e3de141
+Data for: 0xd0
+00000000
+Data for: 0xd1
+00000000
+err read
+Data for: 0xd3
+32051201
+Data for: 0xd4
+cefaedfe
+Data for: 0xd5
+00000000
+Data for: 0xd6
+faedfe0d
+Data for: 0xd7
+00000000
+Data for: 0xd8
+00000000
+err read
+Data for: 0xda
+feedface
+Data for: 0xdb
+00000000
+err read
+err read
+Data for: 0xde
+cefa6dff
+err read
+err read
+Data for: 0xe1
+cefaedfe
+Data for: 0xe2
+cefaedfe
+Data for: 0xe3
+6e3de141
+Data for: 0xe4
+00000000
+Data for: 0xe5
+00000000
+err read
+Data for: 0xe7
+32051201
+Data for: 0xe8
+cefaedfe
+Data for: 0xe9
+00000000
+Data for: 0xea
+faedfe0d
+Data for: 0xeb
+00000000
+Data for: 0xec
+00000000
+err read
+Data for: 0xee
+feedface
+Data for: 0xef
+00000000
+err read
+err read
+Data for: 0xf2
+cefa6dff
+err read
+err read
+Data for: 0xf5
+cefaedfe
+Data for: 0xf6
+cefaedfe
+Data for: 0xf7
+6e3de141
+Data for: 0xf8
+00000000
+Data for: 0xf9
+00000000
+err read
+Data for: 0xfb
+32051201
+Data for: 0xfc
+cefaedfe
+Data for: 0xfd
+00000000
+Data for: 0xfe
+faedfe0d
+Data for: 0xff
+00000000

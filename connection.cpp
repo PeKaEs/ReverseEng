@@ -36,8 +36,8 @@ client::~client(){
 void client::exit(){
   close(fd);
 }
-void client::write(char *buf, unsigned size){
-  char *pos = buf;
+void client::write(unsigned char *buf, unsigned size){
+  unsigned char *pos = buf;
       while(size>0) {
         int ret = ::write(fd,pos,size);
         if(ret<=0) {
@@ -49,8 +49,8 @@ void client::write(char *buf, unsigned size){
         size -= ret;
       }
 }
-bool client::read(char *buf, unsigned size){
-  char *pos = buf;
+bool client::read(unsigned char *buf, unsigned size){
+  unsigned char *pos = buf;
 
      while(size>0) {
 
@@ -66,5 +66,6 @@ bool client::read(char *buf, unsigned size){
      }
     return true;
 }
-void client::auth (uint32_t idx) { write((char*)&idx,sizeof(idx)); }
-void client::preamble() {uint32_t val = 0x000d; write((char*)&val,sizeof(val));}
+void client::auth (uint32_t idx) { write((unsigned char*)&idx,sizeof(idx)); }
+void client::header(unsigned char in) { write(&in,sizeof(in));}
+void client::ret() {header(0x0d);}
