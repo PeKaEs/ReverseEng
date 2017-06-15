@@ -11,7 +11,25 @@ int main(int argc, char *argv[]){
     port = atoi(argv[2]);
   }
   client c(host,port);
-  c.auth(2101111); // <-- your index number goes here
+  c.auth(210111);
+
+  for(uint i=0;i<1000;++i){
+    char buf[1024];
+
+    //char j = (i*174)%255;
+    c.write((char*)&i,sizeof(i));
+    c.preamble();
+
+
+
+      if(c.read(buf,4)){
+        printf("data for :0x%04x\n",i);
+      }else{
+        printf("NO data for :0x%04x\n",i);
+      }
+
+
+  }
 exit:
   return 0;
 }

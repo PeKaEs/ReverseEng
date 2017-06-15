@@ -19,6 +19,16 @@ client::client(char *host, int port){
       printf("err connect\n");
       return;
     }
+
+    struct timeval timeout;
+    timeout.tv_sec = 0;
+    timeout.tv_usec = 100000;
+    if(setsockopt(fd, SOL_SOCKET, SO_RCVTIMEO, (char *)&timeout, sizeof(timeout))< 0){
+      printf("err setsockopt\n");
+    }
+    if (setsockopt (fd, SOL_SOCKET, SO_SNDTIMEO, (char *)&timeout,
+               sizeof(timeout)) < 0)
+       printf("err setsockopt send\n");;
 }
 client::~client(){
   exit();
@@ -39,17 +49,22 @@ void client::write(char *buf, unsigned size){
         size -= ret;
       }
 }
-void client::read(char *buf, unsigned size){
+bool client::read(char *buf, unsigned size){
   char *pos = buf;
+
      while(size>0) {
+
        int ret = ::read(fd,pos,size);
+
        if(ret<=0) {
          printf("err read\n");
-         exit();
-         return;
+         //exit();
+         return false;
        }
        pos  += ret;
        size -= ret;
      }
+    return true;
 }
 void client::auth (uint32_t idx) { write((char*)&idx,sizeof(idx)); }
+void client::preamble() {uint32_t val = 0x000d; write((char*)&val,sizeof(val));}
