@@ -21,15 +21,18 @@ int main(int argc, char *argv[]){
   c.auth(210111);
 
   unsigned char buf[1024];
-  uint32_t in = 0xfeedface;
+  uint32_t in1 = 0x00000001;
+  uint32_t in2 = 0xfeedface;
+  unsigned char option = 0x05;
 
-for (uint i = 0 ; i<= 0xff ; ++i){
-  c.header((unsigned char)i);
-  c.write((unsigned char*)&in,sizeof(in));
-  c.header((unsigned char)i);
-  c.write((unsigned char*)&in,sizeof(in));
+for (uint i = 0 ; i<= 0xffffffff ; i++){
+  c.header(option);
+  c.write((unsigned char*)&in1,sizeof(in1));
+  c.header(option);
+  c.write((unsigned char*)&i,sizeof(i));
   c.ret();
-  if(c.read(buf,4)) {printf("Data for: 0x%02x\n",(unsigned char)i);dump((unsigned char*)buf,4);}
+
+  if(c.read(buf,4)) {printf("\nData for: 0x%04x\n",i);dump((unsigned char*)buf,4);}
 }
   //for(uint i=0;i<1000;++i){
     //char buf[1024];

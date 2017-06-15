@@ -1,0 +1,7 @@
+Function : 0x02
+
+  Job: Echo service if first MSByte is greater than 0 and adder if first MSByte is equal to 0.
+
+Function : 0x05
+
+  Job: Behaves like a xor. 

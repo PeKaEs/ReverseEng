@@ -22,7 +22,7 @@ client::client(char *host, int port){
 
     struct timeval timeout;
     timeout.tv_sec = 0;
-    timeout.tv_usec = 100000;
+    timeout.tv_usec = 1000000;
     if(setsockopt(fd, SOL_SOCKET, SO_RCVTIMEO, (char *)&timeout, sizeof(timeout))< 0){
       printf("err setsockopt\n");
     }
@@ -57,7 +57,7 @@ bool client::read(unsigned char *buf, unsigned size){
        int ret = ::read(fd,pos,size);
 
        if(ret<=0) {
-         printf("err read\n");
+         //printf("err read\n");
          //exit();
          return false;
        }
