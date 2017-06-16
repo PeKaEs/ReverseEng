@@ -17,22 +17,31 @@ int main(int argc, char *argv[]){
   if(argc > 3){
     port = atoi(argv[2]);
   }
+
+
+  unsigned char buf[1024];
+  uint32_t in1 = 0xaaaaaaaa;
+  uint32_t in2 = 0x11111111;
+  unsigned char option = 0x0c;
   client c(host,port);
   c.auth(210111);
 
-  unsigned char buf[1024];
-  uint32_t in1 = 0x00000001;
-  uint32_t in2 = 0xfeedface;
-  unsigned char option = 0x05;
 
-for (uint i = 0 ; i<= 0xffffffff ; i++){
+for (uint i = 1 ; i<0xffffffff ; i+=0x01){
+{
+
+
   c.header(option);
   c.write((unsigned char*)&in1,sizeof(in1));
   c.header(option);
-  c.write((unsigned char*)&i,sizeof(i));
+  i++;
+  c.write((unsigned char*)&in2,sizeof(i));
+if(i){
   c.ret();
 
-  if(c.read(buf,4)) {printf("\nData for: 0x%04x\n",i);dump((unsigned char*)buf,4);}
+  if(c.read(buf,4)) {printf("\nData for: 0x%08x\n",i);dump((unsigned char*)buf,4);}
+}
+}
 }
   //for(uint i=0;i<1000;++i){
     //char buf[1024];
