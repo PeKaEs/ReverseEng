@@ -1,8 +1,9 @@
 #include "connection.hpp"
 
-void dump(unsigned char* buf, unsigned size){
-  for(unsigned i = 0; i<size; ++i){
+void dump(unsigned char* buf, int size){
+  for(int i = (size - 1) ; i>=0; --i){
     printf("%02x",buf[i]);
+    //printf("%02x",i);
   }
   printf("\n");
 }
@@ -20,22 +21,23 @@ int main(int argc, char *argv[]){
 
 
   unsigned char buf[1024];
-  uint32_t in1 = 0xaaaaaaaa;
+  uint32_t in1 = 0xfeedface;
   uint32_t in2 = 0x11111111;
-  unsigned char option = 0x0c;
+  unsigned char option = 0x0f;
+
+  unsigned char seq[] ={0xff,0xff,0xff,0xff,0xff};
   client c(host,port);
   c.auth(210111);
 
-
-for (uint i = 1 ; i<0xffffffff ; i+=0x01){
+for (uint i = 0x7f7fff00 ; i<=0xffffffff ; i+=0x1){
 {
 
 
   c.header(option);
-  c.write((unsigned char*)&in1,sizeof(in1));
-  c.header(option);
-  i++;
-  c.write((unsigned char*)&in2,sizeof(i));
+  c.write((unsigned char*)&i,sizeof(in1));
+  //c.write(seq,sizeof(seq));
+  //c.header(option);
+  //c.write((unsigned char*)&i,sizeof(i));
 if(i){
   c.ret();
 

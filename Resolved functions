@@ -29,3 +29,19 @@ Function: 0x0a ???????????????
 Function 0x0c
 
   Job: Perform logic or on two inputs
+
+Function: 0x0d ?????
+
+    Job: ????????????????????
+
+Function: 0x0e ??
+
+  Job: Server seems to respond only with zeros on every received input
+
+Function: 0x0f
+
+  Behavior:
+          0x00 00 00 00 - 0x7f 7f ff ff --> for every ret 0x00
+          0x7f 80 00 00 - 0x7f ff ff ff --> 0x7f C0 00 00 - 0x7f ff ff ff --counter
+          0x80 00 00 00 - 0xff 7f ff ff --> for every ret 0x80 00 00 00
+          0xff 80 00 00 - 0xff ff ff ff --> 0xff C0 00 00 - 0xff ff ff ff --counter
