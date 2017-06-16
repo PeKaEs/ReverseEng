@@ -45,3 +45,38 @@ Function: 0x0f
           0x7f 80 00 00 - 0x7f ff ff ff --> 0x7f C0 00 00 - 0x7f ff ff ff --counter
           0x80 00 00 00 - 0xff 7f ff ff --> for every ret 0x80 00 00 00
           0xff 80 00 00 - 0xff ff ff ff --> 0xff C0 00 00 - 0xff ff ff ff --counter
+
+ Function: 0x10
+
+  Job: Returns only zeros
+
+ Function: 0x11 ???????????????????????/
+
+  Job: ??
+
+  Function: 0x12 (accumulator)
+
+    Job: Add and accumulate. This function will add received numbers until return command will arrive. On return command it will
+        return the result of adding previously received numbers.
+
+  Function 0x13 ????????
+
+    Job: Seems to return only zeros but maximal number of writes seems to be equal to 2 in other case "err write" is throwed.
+
+  Function: 0x16
+
+    Job: accumulator with max value 0xff ff ff ff. Similar to function 0x12.
+
+  Functions: 0x19
+
+    Job: Seems to be XOR like 0x05
+
+  Function: 0x1a
+
+    Job: Echo service
+
+  Fucntion: 0x1b
+
+    Job: Again XOR like 0x19
+
+  Function: 
