@@ -1,0 +1,487 @@
+data for :0xffffff99
+data for :0xffffff99
+data for :0xffffff99
+data for :0xffffff99
+data for :0xffffff99
+
+Option: 0x02
+40490fdb
+
+Option: 0x05
+40490fdb
+
+Option: 0x06
+40490fdb
+
+Option: 0x07
+40490fdb
+
+Option: 0x08
+00000000
+
+Option: 0x09
+00000000
+
+Option: 0x0c
+40490fdb
+
+Option: 0x0d
+00000000
+
+Option: 0x0e
+00000000
+
+Option: 0x0f
+00000000
+
+Option: 0x10
+00000000
+
+Option: 0x13
+00000000
+
+Option: 0x16
+40490fdb
+
+Option: 0x19
+40490fdb
+
+Option: 0x1a
+40490fdb
+
+Option: 0x1b
+40490fdb
+
+Option: 0x1c
+00000000
+
+Option: 0x1d
+00000000
+
+Option: 0x20
+40490fdb
+
+Option: 0x21
+00000000
+
+Option: 0x22
+00000000
+
+Option: 0x23
+00000000
+
+Option: 0x24
+00000000
+
+Option: 0x27
+00000000
+
+Option: 0x2a
+40490fdb
+
+Option: 0x2d
+40490fdb
+
+Option: 0x2e
+40490fdb
+
+Option: 0x2f
+40490fdb
+
+Option: 0x30
+00000000
+
+Option: 0x31
+00000000
+
+Option: 0x34
+40490fdb
+
+Option: 0x35
+00000000
+
+Option: 0x36
+00000000
+
+Option: 0x37
+00000000
+
+Option: 0x38
+00000000
+
+Option: 0x3b
+00000000
+
+Option: 0x3e
+40490fdb
+
+Option: 0x41
+40490fdb
+
+Option: 0x42
+40490fdb
+
+Option: 0x43
+40490fdb
+
+Option: 0x44
+00000000
+
+Option: 0x45
+00000000
+
+Option: 0x48
+40490fdb
+
+Option: 0x49
+00000000
+
+Option: 0x4a
+00000000
+
+Option: 0x4b
+00000000
+
+Option: 0x4c
+00000000
+
+Option: 0x4f
+00000000
+
+Option: 0x52
+40490fdb
+
+Option: 0x55
+40490fdb
+
+Option: 0x56
+40490fdb
+
+Option: 0x57
+40490fdb
+
+Option: 0x58
+00000000
+
+Option: 0x59
+00000000
+
+Option: 0x5c
+40490fdb
+
+Option: 0x5d
+00000000
+
+Option: 0x5e
+00000000
+
+Option: 0x5f
+00000000
+
+Option: 0x60
+00000000
+
+Option: 0x63
+00000000
+
+Option: 0x66
+40490fdb
+
+Option: 0x69
+40490fdb
+
+Option: 0x6a
+40490fdb
+
+Option: 0x6b
+40490fdb
+
+Option: 0x6c
+00000000
+
+Option: 0x6d
+00000000
+
+Option: 0x70
+40490fdb
+
+Option: 0x71
+00000000
+
+Option: 0x72
+00000000
+
+Option: 0x73
+00000000
+
+Option: 0x74
+00000000
+
+Option: 0x77
+00000000
+
+Option: 0x7a
+40490fdb
+
+Option: 0x7d
+40490fdb
+
+Option: 0x7e
+40490fdb
+
+Option: 0x7f
+40490fdb
+
+Option: 0x80
+00000000
+
+Option: 0x81
+00000000
+
+Option: 0x84
+c0490fdb
+
+Option: 0x85
+00000000
+
+Option: 0x86
+00000000
+
+Option: 0x87
+00000000
+
+Option: 0x88
+00000000
+
+Option: 0x8b
+00000000
+
+Option: 0x8e
+40490fdb
+
+Option: 0x91
+c0490fdb
+
+Option: 0x92
+40490fdb
+
+Option: 0x93
+40490fdb
+
+Option: 0x94
+00000000
+
+Option: 0x95
+00000000
+
+Option: 0x98
+c0490fdb
+
+Option: 0x99
+00000000
+
+Option: 0x9a
+00000000
+
+Option: 0x9b
+00000000
+
+Option: 0x9c
+00000000
+
+Option: 0x9f
+00000000
+
+Option: 0xa2
+40490fdb
+
+Option: 0xa5
+c0490fdb
+
+Option: 0xa6
+40490fdb
+
+Option: 0xa7
+40490fdb
+
+Option: 0xa8
+00000000
+
+Option: 0xa9
+00000000
+
+Option: 0xac
+c0490fdb
+
+Option: 0xad
+00000000
+
+Option: 0xae
+00000000
+
+Option: 0xaf
+00000000
+
+Option: 0xb0
+00000000
+
+Option: 0xb3
+00000000
+
+Option: 0xb6
+40490fdb
+
+Option: 0xb9
+c0490fdb
+
+Option: 0xba
+40490fdb
+
+Option: 0xbb
+40490fdb
+
+Option: 0xbc
+00000000
+
+Option: 0xbd
+00000000
+
+Option: 0xc0
+c0490fdb
+
+Option: 0xc1
+00000000
+
+Option: 0xc2
+00000000
+
+Option: 0xc3
+00000000
+
+Option: 0xc4
+00000000
+
+Option: 0xc7
+00000000
+
+Option: 0xca
+40490fdb
+
+Option: 0xcd
+c0490fdb
+
+Option: 0xce
+40490fdb
+
+Option: 0xcf
+40490fdb
+
+Option: 0xd0
+00000000
+
+Option: 0xd1
+00000000
+
+Option: 0xd4
+c0490fdb
+
+Option: 0xd5
+00000000
+
+Option: 0xd6
+00000000
+
+Option: 0xd7
+00000000
+
+Option: 0xd8
+00000000
+
+Option: 0xdb
+00000000
+
+Option: 0xde
+40490fdb
+
+Option: 0xe1
+c0490fdb
+
+Option: 0xe2
+40490fdb
+
+Option: 0xe3
+40490fdb
+
+Option: 0xe4
+00000000
+
+Option: 0xe5
+00000000
+
+Option: 0xe8
+c0490fdb
+
+Option: 0xe9
+00000000
+
+Option: 0xea
+00000000
+
+Option: 0xeb
+00000000
+
+Option: 0xec
+00000000
+
+Option: 0xef
+00000000
+
+Option: 0xf2
+40490fdb
+
+Option: 0xf5
+c0490fdb
+
+Option: 0xf6
+40490fdb
+
+Option: 0xf7
+40490fdb
+
+Option: 0xf8
+00000000
+
+Option: 0xf9
+00000000
+
+Option: 0xfc
+c0490fdb
+
+Option: 0xfd
+00000000
+
+Option: 0xfe
+00000000
+
+_____________________________-
+Resolved: 0x05 is a xor
+
+Data for: 0x0000000f and 0x0000000a
+00000005
+
+Resolved: 0x06 is echo
+Data for: 0x06fffffa
+06fffffa
+
+Resolved: 0x4e is echo 
+Data for: 0x00fefc00
+00fcfe00
+
+Resolved : 0x12
+Accumulator
+5 times same value sent value = 0x01
+Data for: 0x00000005
+00000005
+
+Resolved: 0x0c
+Logic or

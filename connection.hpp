@@ -26,6 +26,7 @@ public:
   bool read(unsigned char *buf, unsigned size);
   void auth (uint32_t idx);
   void ret();
+  void ret2();
   void header(unsigned char in);
 };
 

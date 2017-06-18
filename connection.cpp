@@ -69,3 +69,5 @@ bool client::read(unsigned char *buf, unsigned size){
 void client::auth (uint32_t idx) { write((unsigned char*)&idx,sizeof(idx)); }
 void client::header(unsigned char in) { write(&in,sizeof(in));}
 void client::ret() {header(0x0d);}
+
+void client::ret2() {header(0x99);}

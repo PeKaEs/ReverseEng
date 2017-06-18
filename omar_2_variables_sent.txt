@@ -1,0 +1,459 @@
+
+Option: 0x02
+40c90fdb
+
+Option: 0x05
+00000000
+
+Option: 0x06
+40490fdb
+
+Option: 0x07
+73f2b2f5
+
+Option: 0x08
+00000000
+
+Option: 0x09
+00000000
+
+Option: 0x0c
+40490fdb
+
+Option: 0x0d
+00000000
+
+Option: 0x0e
+00000000
+
+Option: 0x0f
+00000000
+
+Option: 0x10
+00000000
+
+Option: 0x13
+00000000
+
+Option: 0x16
+40c90fdb
+
+Option: 0x19
+00000000
+
+Option: 0x1a
+40490fdb
+
+Option: 0x1b
+73f2b2f5
+
+Option: 0x1c
+00000000
+
+Option: 0x1d
+00000000
+
+Option: 0x20
+40490fdb
+
+Option: 0x21
+00000000
+
+Option: 0x22
+00000000
+
+Option: 0x23
+00000000
+
+Option: 0x24
+00000000
+
+Option: 0x27
+00000000
+
+Option: 0x2a
+40c90fdb
+
+Option: 0x2d
+00000000
+
+Option: 0x2e
+40490fdb
+
+Option: 0x2f
+73f2b2f5
+
+Option: 0x30
+00000000
+
+Option: 0x31
+00000000
+
+Option: 0x34
+40490fdb
+
+Option: 0x35
+00000000
+
+Option: 0x36
+00000000
+
+Option: 0x37
+00000000
+
+Option: 0x38
+00000000
+
+Option: 0x3b
+00000000
+
+Option: 0x3e
+40c90fdb
+
+Option: 0x41
+00000000
+
+Option: 0x42
+40490fdb
+
+Option: 0x43
+73f2b2f5
+
+Option: 0x44
+00000000
+
+Option: 0x45
+00000000
+
+Option: 0x48
+40490fdb
+
+Option: 0x49
+00000000
+
+Option: 0x4a
+00000000
+
+Option: 0x4b
+00000000
+
+Option: 0x4c
+00000000
+
+Option: 0x4f
+00000000
+
+Option: 0x52
+40c90fdb
+
+Option: 0x55
+00000000
+
+Option: 0x56
+40490fdb
+
+Option: 0x57
+73f2b2f5
+
+Option: 0x58
+00000000
+
+Option: 0x59
+00000000
+
+Option: 0x5c
+40490fdb
+
+Option: 0x5d
+00000000
+
+Option: 0x5e
+00000000
+
+Option: 0x5f
+00000000
+
+Option: 0x60
+00000000
+
+Option: 0x63
+00000000
+
+Option: 0x66
+40c90fdb
+
+Option: 0x69
+00000000
+
+Option: 0x6a
+40490fdb
+
+Option: 0x6b
+73f2b2f5
+
+Option: 0x6c
+00000000
+
+Option: 0x6d
+00000000
+
+Option: 0x70
+40490fdb
+
+Option: 0x71
+00000000
+
+Option: 0x72
+00000000
+
+Option: 0x73
+00000000
+
+Option: 0x74
+00000000
+
+Option: 0x77
+00000000
+
+Option: 0x7a
+40c90fdb
+
+Option: 0x7d
+00000000
+
+Option: 0x7e
+40490fdb
+
+Option: 0x7f
+73f2b2f5
+
+Option: 0x80
+00000000
+
+Option: 0x81
+00000000
+
+Option: 0x84
+40490fdb
+
+Option: 0x85
+00000000
+
+Option: 0x86
+00000000
+
+Option: 0x87
+00000000
+
+Option: 0x88
+00000000
+
+Option: 0x8b
+00000000
+
+Option: 0x8e
+40c90fdb
+
+Option: 0x91
+00000000
+
+Option: 0x92
+40490fdb
+
+Option: 0x93
+73f2b2f5
+
+Option: 0x94
+00000000
+
+Option: 0x95
+00000000
+
+Option: 0x98
+40490fdb
+
+Option: 0x99
+00000000
+
+Option: 0x9a
+00000000
+
+Option: 0x9b
+00000000
+
+Option: 0x9c
+00000000
+
+Option: 0x9f
+00000000
+
+Option: 0xa2
+40c90fdb
+
+Option: 0xa5
+00000000
+
+Option: 0xa6
+40490fdb
+
+Option: 0xa7
+73f2b2f5
+
+Option: 0xa8
+00000000
+
+Option: 0xa9
+00000000
+
+Option: 0xac
+40490fdb
+
+Option: 0xad
+00000000
+
+Option: 0xae
+00000000
+
+Option: 0xaf
+00000000
+
+Option: 0xb0
+00000000
+
+Option: 0xb3
+00000000
+
+Option: 0xb6
+40c90fdb
+
+Option: 0xb9
+00000000
+
+Option: 0xba
+40490fdb
+
+Option: 0xbb
+73f2b2f5
+
+Option: 0xbc
+00000000
+
+Option: 0xbd
+00000000
+
+Option: 0xc0
+40490fdb
+
+Option: 0xc1
+00000000
+
+Option: 0xc2
+00000000
+
+Option: 0xc3
+00000000
+
+Option: 0xc4
+00000000
+
+Option: 0xc7
+00000000
+
+Option: 0xca
+40c90fdb
+
+Option: 0xcd
+00000000
+
+Option: 0xce
+40490fdb
+
+Option: 0xcf
+73f2b2f5
+
+Option: 0xd0
+00000000
+
+Option: 0xd1
+00000000
+
+Option: 0xd4
+40490fdb
+
+Option: 0xd5
+00000000
+
+Option: 0xd6
+00000000
+
+Option: 0xd7
+00000000
+
+Option: 0xd8
+00000000
+
+Option: 0xdb
+00000000
+
+Option: 0xde
+40c90fdb
+
+Option: 0xe1
+00000000
+
+Option: 0xe2
+40490fdb
+
+Option: 0xe3
+73f2b2f5
+
+Option: 0xe4
+00000000
+
+Option: 0xe5
+00000000
+
+Option: 0xe8
+40490fdb
+
+Option: 0xe9
+00000000
+
+Option: 0xea
+00000000
+
+Option: 0xeb
+00000000
+
+Option: 0xec
+00000000
+
+Option: 0xef
+00000000
+
+Option: 0xf2
+40c90fdb
+
+Option: 0xf5
+00000000
+
+Option: 0xf6
+40490fdb
+
+Option: 0xf7
+73f2b2f5
+
+Option: 0xf8
+00000000
+
+Option: 0xf9
+00000000
+
+Option: 0xfc
+40490fdb
+
+Option: 0xfd
+00000000
+
+Option: 0xfe
+00000000
