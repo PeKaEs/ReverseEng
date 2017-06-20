@@ -1,4 +1,49 @@
+1 Val sended before print
+Option: 0x02 : 0cc306d5
+Option: 0x05 : cfc5d3d8
+Option: 0x06 : 0cc306d5
+Option: 0x07 : 0cc306d5
+Option: 0x08 : 00000080
+Option: 0x09 : 00000000
+Option: 0x0c : cfc7d7dd
+Option: 0x0d : 00000000
+Option: 0x0e : c306d50d
+Option: 0x0f : 00000080
+Option: 0x10 : 00000000
+Option: 0x13 : 00020405
+Option: 0x16 : 0cc306d5
 
+
+2 Val sended before print
+Option: 0x00 : 67a6f354
+Option: 0x01 : 6b8cd673
+Option: 0x02 : 2ad8730b
+Option: 0x03 : aa64a620
+Option: 0x04 : aa64a620
+Option: 0x05 : 2ad8730b
+Option: 0x06 : 2ad8730b
+Option: 0x07 : 2ad8730b
+Option: 0x08 : 078385f4
+Option: 0x09 : 1457bfb8
+Option: 0x0a : aa64a620
+Option: 0x0b : 21a78f68
+Option: 0x0c : 2ad8730b
+Option: 0x0d : 00000000
+Option: 0x0e : 6b8cd673
+Option: 0x0f : 1457bfb8
+Option: 0x10 : 078385f4
+Option: 0x11 : 1457bfb8
+Option: 0x12 : aa64a620
+Option: 0x13 : c5f948c1
+Option: 0x14 : 1457bfb8
+Option: 0x15 : 67a6f354
+Option: 0x16 : 6b8cd673
+Option: 0x17 : 2ad8730b
+
+
+
+
+-----------------------
 Option: 0x00
 0b07208b
 

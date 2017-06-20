@@ -12,6 +12,10 @@ Function : 0x06
 
   Job: Echo service. On input respond with equal value
 
+  Function : 0x07
+
+    Job: Xor
+
 Function : 0x08 ?????????????????????
 
   Job: ????????????
@@ -25,6 +29,12 @@ Function: 0x0a ???????????????
   Job: Respond depends on count of sended data (Serwer odpowiada różnie w zależności od ilości przesłanych 4 bajtowych danych zanim wyślemy reta,
   przesyłana wartość też chyba ma znaczenie. W zalezności od przesyłanych danych serwer odpowiada lub nie np dla 0x00001000 jest odpowiedź zależna od
   ilości przesłanych danych zanim zrobi się reta a dla 0x00002000 już brak odpowiedzi, dla 0x00003000 znów odpowiedź)
+
+Function: 0x0b
+
+  Job: Function will subtract received value from 0x00000000 and return the result. For example when sended value is equal to 0x02 respond will be
+  equal to 0xfffffffe
+
 
 Function 0x0c
 
@@ -79,4 +89,4 @@ Function: 0x0f
 
     Job: Again XOR like 0x19
 
-  Function: 
+  Function:
